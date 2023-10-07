@@ -1,3 +1,4 @@
+![image from ldt](cover.png)
 # Bergeron Translation
 
 There is a historic translation of Volume 1 available here [archive.org](https://archive.org/details/turnersmanualbe00berggoog) but pages 9-74 are missing. 
