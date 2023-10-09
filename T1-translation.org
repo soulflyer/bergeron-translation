@@ -322,3 +322,71 @@ We cannot blame a laboratory where all the parts and tools are artfully arranged
 This assemblage presents a pleasant and methodical look: and it is very suitable for opulence to thus preserve the productions of genius, and the useful inventions of artists. We cannot hide the fact that the work produces a lot of dust, and that we need these precautions if we want to preserve the most precious parts of a laboratory. Whatever object we are turning or planing, after a few moments we are surrounded by shavings which jump from all sides: these shavings produce, despite the greatest care, a subtle dust which sticks everywhere .
 
 When you want to have a very clean laboratory, you must have in another room a simple Lathe, the nose of the shaft of which is similar to those of the various Lathes which make up the laboratory. We rough out the piece to be turned, and we carry it to finish on the precious lathes.
+
+** CHAPTER III De la Menuiserie.
+*** SECTION I Manière de Débiter les Bois et Outil employés à cet usage.
+Carpentry being closely linked with the art of the Turner, it seems essential to us to give some notion of it: they are limited to the description and use of the tools specific to this art, the use of which will frequently be indicated in the various works that we will be taught to perform. We therefore undertake to only develop this art in ways that can be adapted to the various needs that a Turner experiences.
+
+The first of all is to cut down your wood.
+
+Cutting wood is the action of sawing it, into logs (I), into tables, boards or frames.
+
+For the first operation, we use the saw, fig. 1, Pl 9, named Passe-partout. This type of saw being intended for sawing green wood, its teeth must be long and separated by an equal space at their base. Without this precaution, the sawdust clumps between the teeth, preventing the saw from flowing, and the force from going sideways, despite the will and skill of the person operating it.
+
+This type of saw is sharpened with a triangular bastard line, about 8 inches long, by tilting it from left to right and from right to left, following the teeth in pairs, like a, b, fig. . 1.
+
+Then, after turning the saw over, we make those c, d, fig. 1, which had been left. This type of saw needs a lot of track. We give the way to a saw, by tilting as evenly as possible, and from one end to the other, alternately one tooth on the right and the other on the left.
+
+(I) Portipn of tree covered with its bark. (TODO put this at the end of the page)
+
+This operation is done by means of an instrument, fig. 50 and 50 bis Pl. 9, named Tourne-à-gauche.
+
+Before proceeding with the description of the other saws, we will give that of a press, intended to sharpen them, and we will indicate the precautions to take to do it well.
+
+For this purpose, we imagined a press, fig. 23, Pl 9, in which a notch A is made; we place the blade of the saw in this notch, and we fix it securely, by means of the screws B B. This press can be placed in several ways, either on the carpenter's workbench, by means of the jack, or on the Lathe workbench, with the support bolt, which is passed through the groove C
+
+The press and the saw being thus arranged, the necessary path is given to the saw; then we pass over the top of the teeth, and perpendicular to the blade, a soft, flat file, and as large as possible, to even out the teeth. This precaution is of the greatest necessity, because two disadvantages would result from the inequality of the teeth. The longest teeth would be the only ones that would cut, and, wearing out more than the others, would soon become dull. and would prevent the saw from cutting, and, for the same reason, they would prevent the saw from cutting.
+
+This observation is applicable to all saws, which only differ from each other by the greater or lesser size of the teeth.
+
+The blade thus fixed, we present the file transversely to the blade, and inclined following the teeth of the saw: we begin by deepening the diminutive teeth by the first operation; then makes the teeth sharp by filing them, with the greatest care, from one edge to the other. It is not unnecessary to say that the blade must flow into the press as the length which was gripped there has been filed down.
+
+The wood is cut into boards, tables and frames.
+
+The board is a portion of tree split in its length and width, having 6 to 8 lines of thickness.
+
+The table is a portion of split tree as above, 3 to 5 inches thick.
+
+The frame is caliber wood, usually measuring 6 inches wide by 3 inches thick.
+
+Although all wood can be prepared in this way, only beech and oak wood are commercially known under these names.
+To cut the wood in this way, we use the saw, fig.2, Pl.9, called Slitting saw. It is made up of two uprights assembled by two crosspieces, on which flow two boxes which receive the blade. One of these boxes carries a screw, used to tighten the blade. This construction allowing it to be brought closer to one or the other of the mountains as much as the need requires, it will be easy to separate such strip parallel to one of the banks as is deemed suitable. The teeth of this type of saw are an isosceles triangle, and are sharpened with a three-quarter file, 6 inches long.
+
+The saw, fig. 3, PI. 9, called German saw, often replaces the resaw among cabinetmakers. The property of the blade to rotate in all directions allows the mount to be placed in a position such that the part being sawn is never in contact with the mount. This type of saw has the advantage, over the slitting saw, of detaching a very thin part from one of the edges of a table, of cutting curved parts having a large radius; finally, to saw any board or table transversely, placing the width of its blade parallel to the arms.
+
+The blade of this saw only differs from that for splitting by the teeth which are finer, and to which less track is given, being intended for cutting more precious wood. The blade is attached to two AA jaws, the tails of which BB pass through the CC arms; the DD handles are used to move the blade. To carry out this operation, we will turn the handles one after the other, after having relaxed the rope one turn, a precaution which must be taken for all saws assembled according to the principle of this one. We will observe that the temperature acting powerfully on the strings, it will be good to relax them every time we have finished working: otherwise, the mounts become awkward, or even break at the point where we expect it. the least.
+
+The saw, fig. 4, is called Scroll Saw. It only differs from the previous one by the size of the frame which is smaller, and by the blade which is narrower. The deurture and the way are almost the same. This type of saw is specially designed to follow all the contours of the pieces that we wish to cut; it saves a lot of wood in that it allows you to follow all the lines that can be traced, and requires no other thickness between each piece than its passage. We invite the reader to remember that for this saw, as with all rotating saws, the greatest attention must be paid to clamping the two ends of the blade when changing its position: otherwise, being left in its length, it would be difficult to direct it.
+Fig. 5 represents the tenon saw. Its blade is 26 to 28 inches long, and 26 to 28 lines wide. Its teeth are average, not very inclined, and it has little track. Its blade is fixed to the arms e e, by a notch parallel to its length. Often, to fix it there, a slightly riveted pin is used. This method has the disadvantage of splitting the arms. These pins are replaced, for greater strength and cleanliness, by copper or iron A A jaws, in which the blade is gripped and stopped by means of two pins. The blade, thus adjusted, is placed in the notches made in the arms and heads d d; jaws forming the cap exert force on the arms of the saw, which will be held stronger, due to the triple thickness which must receive the notch. This adjustment makes it easier to disassemble the saw.
+
+The saw, fig. 6, which we are going to describe, is called a leveling saw; it deserves the attention of the amateur, because of the perfection demanded by its mount and its blade. This instrument being intended to follow very closely the line of an assembly, the blade must be very even, very equal in thickness, have 16 to 20 inches in length, and 16 to 20 lines in width. The teeth must be fine, very even, slightly inclined, and have almost no tracks. It is assembled like the tenon saw. Iron or copper jaws are especially applied with advantage to this species of saw; they hold and prevent the blade, which is very thin, from wobbling. This type of saw must be sharpened with the greatest care; This care depends on the purity of the blends, which must not be rejected by Guillaume.
+
+The saw, fig. 7, is called Hand Saw. The shape of its blade gives it properties that are particular to it; it can be inserted into difficult places, where mounted saws cannot pass. It is very useful in a laboratory, either for detaching objects mounted on the tower, or for sawing pieces held in the vice. Its small volume and the shape of its frame make it familiar to the amateur.
+
+There are saws of this type whose blade is undermined, tempered very hard, and the teeth are very fine. They are held at their top by a copper or iron back, which makes them called back saws; they are very good for precious woods, and even for metals.
+
+There are still saws mounted in the same way, whose blades are very narrow and pointed, which makes them called Passe-partout, fig.8: we can with these saws, using a hole , practice, an opening in a panel.
+
+Fig. 9 is a saw, toothed on both sides, the handle of which is bent, and has no other use than to trim off the excess of the dowels put in place.
+
+We will end this article with some observations on the best means to use for sawing straight; because there are few amateurs who are not embarrassed to follow a line exactly with a saw or to cut straight.
+
+The first cause is the lack of care taken in sharpening saws.
+
+The second is to want to cut soft and green woods, with blades whose teeth are fine and have little tread, and the opposite for hard woods.
+
+The third is the impatience of the person operating, who, believing he is going faster, presses too much on the saw: which causes the blade to veil and carries it in spite of himself to the right or left.
+
+It is therefore necessary, to saw well, to choose the saw suitable for the material you intend to cut, and for the work you want to do; present it perpendicularly and parallel to the line you want to follow; erase his body so that the movement that the arms make does not bother him. However, we must not stray too far: this would make the position tiring, and would cause us to lose sight of the line we must follow. If in this position the saw is pushed straight and without swinging it, the operation will necessarily be good. You should also take care to grease the blade from time to time with bacon or tallow.
+
+*** SECTION II Manière de Préparer les Bois au rabot.
