@@ -15,4 +15,5 @@ is to complete the translation of [Volume 2](https://archive.org/details/manueld
 ## Phase three
 is to arrange the whole thing with all the plates in the right places so it can be printed or viewed as a pdf. Some plates are missing in the historic translation, although all are available separately in the [Atlas du Manuel du Tourneur](https://archive.org/details/manueldutourneurberg)
 
-[^1]: Many of those that did lost their heads to the guillotine, but that's a whole nother story.
+[^1]: Some of those that did lost their heads to the guillotine[^2], but that's a whole nother story.
+[^2]: This is no longer a concern.
